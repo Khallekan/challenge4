@@ -104,12 +104,6 @@ div.rate-card span {
     margin-left: 5%;
     margin-right: auto;
 }
-/* div.rating div.rate-card::before {
-    content: url(./images/icon-star.svg) url(./images/icon-star.svg)
-        url(./images/icon-star.svg) url(./images/icon-star.svg)
-        url(./images/icon-star.svg);
-    margin-right: 5%;
-} */
 div.rating div.rating-1 {
     position: relative;
     top: 0;
